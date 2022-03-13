@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import cv2 as cv
 import os
 
-image_path = '/WhatsApp Image 2022-01-30 at 5.49.26 PM.jpeg'
+image_path = 'image path'
 img = cv.imread(image_path)
 result = DeepFace.analyze(img)
 print('\033[1m'+'Emotions : ]')
