@@ -1,2 +1,2 @@
 # AI_main
-All task performed at Ai lab 
+All tasks performed at Ai lab 
